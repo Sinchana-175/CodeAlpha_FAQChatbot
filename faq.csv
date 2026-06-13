@@ -1,0 +1,21 @@
+Question,Answer
+What is AI?,Artificial Intelligence is the simulation of human intelligence by machines.
+What is Artificial Intelligence?,Artificial Intelligence is the simulation of human intelligence by machines.
+What is Machine Learning?,Machine Learning is a subset of AI that enables systems to learn from data.
+Explain Machine Learning,Machine Learning enables computers to learn patterns from data and make predictions without being explicitly programmed.
+What is NLP?,Natural Language Processing enables computers to understand interpret and generate human language.
+Explain NLP,Natural Language Processing enables computers to understand interpret and generate human language.
+What is Machine Translation?,Machine Translation is an NLP task that automatically translates text from one language to another using computational models.
+Explain Machine Translation,Machine Translation converts text or speech from one language into another while preserving meaning and context.
+What is Deep Learning?,Deep Learning uses neural networks with multiple layers to learn complex patterns from large datasets.
+Explain Deep Learning,Deep Learning is a subset of Machine Learning that uses artificial neural networks inspired by the human brain.
+What is Python?,Python is a popular programming language widely used in AI machine learning data science and web development.
+Tell me about Python,Python is an easy-to-learn high-level programming language commonly used in AI and data science projects.
+What is a Chatbot?,A chatbot is a software application that simulates human conversation using predefined rules or AI models.
+What is Computer Vision?,Computer Vision enables computers to understand and analyze images and videos.
+What is Object Detection?,Object Detection identifies and locates objects within images or videos using bounding boxes.
+What is Sentiment Analysis?,Sentiment Analysis determines whether text expresses positive negative or neutral sentiment.
+What is Tokenization?,Tokenization is the process of splitting text into smaller units called tokens.
+What is Stemming?,Stemming reduces words to their root form by removing suffixes.
+What is Lemmatization?,Lemmatization converts words to their dictionary base form using linguistic knowledge.
+What is Named Entity Recognition?,Named Entity Recognition identifies entities such as people organizations locations and dates in text.
