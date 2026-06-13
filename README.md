@@ -1,35 +1,17 @@
-# CodeAlpha FAQ Chatbot
+## Screenshots
 
-## Project Overview
+### Home Page
 
-This project is an AI-powered FAQ Chatbot developed as part of the CodeAlpha Artificial Intelligence Internship.
+![Home Page](screenshots/home_page.png)
 
-The chatbot answers frequently asked questions related to Artificial Intelligence, Machine Learning, NLP, Python, and Chatbots using Natural Language Processing techniques.
+### ROC Curve Explanation
 
-## Features
+![ROC Curve](screenshots/roc_curve.png)
 
-* Interactive chatbot interface
-* FAQ-based question answering
-* TF-IDF Vectorization
-* Cosine Similarity Matching
-* User-friendly Streamlit interface
+### Machine Translation
 
-## Technologies Used
+![Machine Translation](screenshots/machine_translation.png)
 
-* Python
-* Streamlit
-* Pandas
-* Scikit-learn
-* NLP
+### BPE Algorithm
 
-## Installation
-
-pip install -r requirements.txt
-
-## Run
-
-streamlit run chatbot.py
-
-## Author
-
-Developed for CodeAlpha AI Internship.
+![BPE Algorithm](screenshots/bpe_algorithm.png)
